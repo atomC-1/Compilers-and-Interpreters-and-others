@@ -16,6 +16,10 @@
 ## watch overall comiler design.
 ### [MIT open courseware Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c11/)
 
+## Interpreters vs Comilers
+### Thoughts: interpreters are silimar stucture as framework as compilers are built from a library
+### [facts](https://chatgpt.com/s/t_68f3161c4ca881918bb15834f9c88d50)
+
 
 
 
